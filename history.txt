@@ -1,0 +1,298 @@
+    1  ls
+    2  cd "C:\Users\Mhlam\Documents\My Things 2020\Atom\Tshimologong test"
+    3  ls
+    4  git innit
+    5  git init
+    6  git remote add origin https://github.com/Njabz-1/Tshimologong-test-.git
+    7  git remote ~v
+    8  git remote -v
+    9  git add .
+   10  git commit -m "First Commit"
+   11  git config --global user.email "mhlambinjabulo@gmail.com"
+   12  git config --global user.name "Njabulo"
+   13  git commit -m "First Commit" 
+   14  git push origin master
+   15  ls
+   16  pwd
+   17  mkdir git-basic-exercises
+   18  cd ~/Umuzi
+   19  cd ~/Desktop
+   20  pwd
+   21  ls
+   22  cd Umuzi
+   23  mkdir git-basic-exercises
+   24  cd git-basic-exercises
+   25  ls
+   26  ls -a
+   27  git status
+   28  git innit
+   29  git init
+   30  ls -a
+   31  git status
+   32  touch README.md
+   33  ls -a
+   34  git status
+   35  git log
+   36  git add 
+   37  git add .
+   38  git status
+   39  git  rm --cached README.md
+   40  git status
+   41  git add .
+   42  git status
+   43  git commit -m "initial commit"
+   44  git log
+   45  q
+   46  nano README.md
+   47  cat README.md
+   48  git stats
+   49  git status
+   50  git commit -m "second commit"
+   51  git add .
+   52  git status
+   53  git commit -m "second commit" 
+   54  nano README.md
+   55  git status
+   56  git add .
+   57  git commit -m "third commit" 
+   58  git log
+   59  q
+   60  git checkout
+   61  commit 4a2a66c73a0f98f89589ae94d2a8217b5260604c
+   62  git checkout main
+   63  cat README.md
+   64  git branch
+   65  pwd
+   66  ls
+   67  commit 4a2a66c73a0f98f89589ae94d2a8217b5260604c
+   68  git checkout commit 4a2a66c73a0f98f89589ae94d2a8217b5260604c
+   69  git checkout
+   70  git checkout -b
+   71  git branch
+   72  git branch milkshake-flavours
+   73  git branch
+   74  git checkout
+   75  git branch
+   76  git branch milkshake-flavours
+   77  git checkout milkshake-flavours
+   78  git branch
+   79  nano milshakes.md
+   80  git status
+   81  git add .
+   82  git status
+   83  git commit -m "added initial flavours"
+   84  git log
+   85  git checkout master
+   86  git branch
+   87  git branch history
+   88  git checkout history
+   89  git log
+   90  git branch
+   91  history > history.txt
+   92  pwd
+   93  ls
+   94  git status
+   95  git add . 
+   96  git commit -m "added history"
+   97  git log
+   98  git checkout milkshake-flavours
+   99  git log
+  100  nano README.md
+  101  git add .
+  102  git commit -m "random readme changes"
+  103  git checkout history
+  104  cat README.md
+  105  git branch
+  106  rm README.md
+  107  echo "booya" > README.md
+  108  git status
+  109  git add .
+  110  git commit -m "rewrote readme"
+  111  git checkout master
+  112  git branch
+  113  git checkout main
+  114  git checkout master
+  115  ls
+  116  git log
+  117  git checkout milkshake-flavours
+  118  ls
+  119  git log
+  120  git checkout history
+  121  ls
+  122  git log
+  123  git checkout master
+  124  git merge milshake-flavours
+  125  ls
+  126  git branch
+  127  nano README.md
+  128  git checkout milkshake-flavours
+  129  nano README.md
+  130  git checkout master
+  131  git status
+  132  git checkout milkshake-flavours
+  133  git status
+  134  git checkout master
+  135  git merge milkshake-flavours
+  136  git status
+  137  git branch
+  138  ls
+  139  git log
+  140  git checkout history 
+  141  git log
+  142  git checkout milkshake-flavours
+  143  git log
+  144  git checkout master
+  145   git log 
+  146  pwd
+  147   git remote add origin https://github.com/Njabz-1/git-basic-exercises.g
+  148  git remote add origin https://github.com/Njabz-1/git-basic-exercises.git
+  149  git branch -M main
+  150  git push -u origin main
+  151  git remote add origin https://github.com/Njabz-1/git-basic-exercises.git
+  152  git branch -M main
+  153  git push -u origin main
+  154  git branch -M master
+  155  git push -u origin main
+  156  git status
+  157  git branch -M main
+  158  git status
+  159  git push -u origin main
+  160  git status
+  161  git branch
+  162  git add .
+  163  git commit -m "Add existing file"
+  164  git push origin main
+  165  git remove -v
+  166  git remote -v
+  167  git remote set-url origin https://github.com/Njabz-1/git-basic-exercises.git
+  168  git remote -v
+  169  git branch -M main
+  170  git push -u origin main
+  171  git branch 
+  172  git branch -m history
+  173  git branch -M history
+  174  git push origin history
+  175  git checkout milkshake-flavours
+  176  git push -u origin milshake-flavours
+  177  git status
+  178  git push origin milshake-flavours
+  179  git branch -M milkshake-flavours
+  180  git push -u origin milshake-flavours
+  181  git push origin milshake-flavours
+  182  git add .
+  183  git status
+  184  git push origin milshake-flavours
+  185  git push -u origin milshake-flavours
+  186  git remote -v
+  187  git status
+  188  git add .
+  189  git commit -m "I think I messed, using this to check something"
+  190  git push origin milkshake-flavours
+  191  ls
+  192  git checkout histroy
+  193  git checkour history
+  194  git checkout history
+  195  ls
+  196  git log
+  197  ls
+  198  git branch
+  199  git checkout main
+  200  cd
+  201  ls
+  202  cd ~/Desktop
+  203  ls
+  204  cd Umuzi
+  205  ls
+  206  git rm --cashed git-basic-exercises
+  207  git rm -r --cached git-basic-exercises
+  208  ls
+  209  rm git-basic-exercises
+  210  rm -r git-basic-exercises
+  211  ls
+  212  rm -r
+  213  rm -r git-basic-exercises
+  214  git checkout main
+  215  rmdir -r git-basic-exercises
+  216  rmdir git-basic-exercises
+  217  rm git-basic-exercises -rf
+  218  ls
+  219  ls -a
+  220  mkdir git-basic-exercises
+  221  ls
+  222  cd
+  223  ls
+  224  cd ~/Desktop
+  225  ls
+  226  cd Umuzi
+  227  ls
+  228  cd git-basic-exercises
+  229  ls -a
+  230  git innit
+  231  git init
+  232  git status
+  233  touch README.md
+  234  git log
+  235  git branch
+  236  git branch -m master main
+  237  git branch -m master main
+  238  git branch -m main
+  239  git checkout master
+  240  git checkout main
+  241  checkout main
+  242  ls
+  243  git log
+  244  ls
+  245  git init
+  246  ls
+  247  git status
+  248  git add
+  249  git add README.md
+  250  git status
+  251  git rm --cached README.md
+  252  git status
+  253  git status .
+  254  git add .
+  255  git status
+  256  git commit -m "intial commit"
+  257  git log
+  258  nano README.md 
+  259  cat README.md
+  260  git status
+  261  git add .
+  262  git status
+  263  git commit -m "second commit"
+  264  nano README.md 
+  265  git add .
+  266  git commit -m "third commit"
+  267  git log
+  268  git checkout commit 5a8a926763e1dcf6968514ea075b7cfaa75942d9
+  269  git checkout "commit 5a8a926763e1dcf6968514ea075b7cfaa75942d9"
+  270  git checkout 'commit 5a8a926763e1dcf6968514ea075b7cfaa75942d9'
+  271  git checkout 5a8a926763e1dcf6968514ea075b7cfaa75942d9
+  272  cat README.md
+  273  git status
+  274  git checkout main
+  275  cat README.md
+  276  git branch
+  277  git branch milkshake-flavours
+  278  git branch
+  279  git checkout milkshake-flavours
+  280  nano milkshakes.md
+  281  git status
+  282  git add .
+  283  git commit -m "added initial flavours"
+  284  git log
+  285  git checkout main
+  286  git log
+  287  git branch history
+  288  hit checkout history 
+  289  git checkout history
+  290  git log
+  291  git log
+  292  git branch
+  293  git tatus
+  294  git status
+  295  git checkout main
+  296  git status
+  297  git checkout history
+  298  history > history.txt
